@@ -1,2 +1,5 @@
-# MicroPython-TTGO
-Files and customizations for the ESP32 TTGO
+MicroPython for the LilyGo TTGO
+=======================
+<p align="center">
+  <img src='image/TTGO.png/'>
+</p>

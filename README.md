@@ -1,6 +1,6 @@
 ![CI badge](https://img.shields.io/badge/%E2%80%8E-micropython-success?style=flat-square&logo=micropython)
 ![CI badge](https://img.shields.io/github/languages/code-size/silverlogix/MicroPython-TTGO?style=flat-square)
-![CI badge](https://img.shields.io/tokei/lines/github/silverlogix/MicroPython-TTGO)
+![CI badge](https://img.shields.io/tokei/lines/github/silverlogix/MicroPython-TTGO?style=flat-square)
 
 MicroPython for the LilyGo TTGO
 =======================
